@@ -1,1 +1,1 @@
-Print("shashu")
+print("shashu")
